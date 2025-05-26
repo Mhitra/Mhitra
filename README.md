@@ -22,8 +22,8 @@
 ---
 
 ### 💬 My Discord Status  
-<a href="https://discord.com/users/714157928239726662">
-  <img src="https://lanyard-profile-readme.vercel.app/api/714157928239726662?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably doing something else..." />
+<a href="https://discord.com/users/384062124655378472">
+  <img src="https://lanyard-profile-readme.vercel.app/api/384062124655378472?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably doing something else..." />
 </a>
 
 ---
